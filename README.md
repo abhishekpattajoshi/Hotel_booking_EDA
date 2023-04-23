@@ -1,1 +1,1 @@
-# Hotel_booking_EDA
+# Hotel booking EDA
